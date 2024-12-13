@@ -1,0 +1,62 @@
+ .form {
+     font-family: 'Times New Roman', Times, serif;
+ }
+
+ .container {
+     width: 35%;
+     margin: auto;
+
+ }
+
+ .formbiodata {
+     background-color: rgb(202, 193, 99);
+ }
+
+ .btn-1:hover {
+     background-color: aquamarine;
+
+ }
+
+ .btn-2:hover {
+     background-color: aquamarine;
+
+ }
+
+ .submit {
+     outline: none;
+     border: none;
+     background-color: inherit;
+ }
+
+ .reset {
+     outline: none;
+     border: none;
+     background-color: inherit;
+ }
+
+ .border {
+     width: 100%;
+ }
+
+ .left-1,
+ .right-1,
+ .left-3,
+ .right-3,
+ .left-5,
+ .right-5 {
+     background-color: rgb(127, 127, 236);
+ }
+
+ .left-2,
+ .right-2,
+ .left-4,
+ .right-4,
+ .left-6,
+ .right-6 {
+     background-color: rgb(138, 237, 138);
+ }
+
+ .container_2 {
+     width: 65%;
+     margin: auto;
+ }
